@@ -1,0 +1,5 @@
+commit 878d345c9c1710034bbc0b5eb494c54693b521bf
+Author: Denis <denis.gukbez.dam@insalfonscostafreda.cat>
+Date:   Tue Jan 14 20:57:58 2025 +0100
+
+    Primera versió de programació
